@@ -1,0 +1,2 @@
+Content of file2.txt is different.
+Greetings from vishal Sharma !
